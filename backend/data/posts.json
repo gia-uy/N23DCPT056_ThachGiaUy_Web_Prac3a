@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Bài viết đầu tiên",
+    "content": "Chào mừng đến với Blog của chúng tôi!",
+    "author": "Admin",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Hướng dẫn NextJS",
+    "content": "NextJS giúp xây dựng ứng dụng web bằng React.",
+    "author": "Admin",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": 1791559777360,
+    "title": "Thạch Gia Uy",
+    "content": "Thạch Gia Uy hehehehe",
+    "author": "Da Ua Minkyu",
+    "createdAt": "2026-10-09T15:29:37.360Z"
+  }
+]
